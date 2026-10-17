@@ -1,0 +1,4 @@
+*.numbers
+*.pages
+*.pdf
+.DS_Store
